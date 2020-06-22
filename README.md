@@ -35,7 +35,7 @@ Standard web technologies (HTML5/CSS3/JS) to offer the widest accessibility rang
 
 ## Objectif
 
-Munir l’organisation d’un outil de (re)traçage des athlètes afin de pouvoir cibler les individus à risque en cas d’éclosion.
+Munir l’organisation d’un outil de (re)traçage des membres afin de pouvoir cibler les individus à risque en cas d’éclosion.
 
 ## Contraintes
 
