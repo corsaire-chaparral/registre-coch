@@ -29,7 +29,7 @@ Standard web technologies (HTML5/CSS3/JS) to offer the widest accessibility rang
 
 [MIT](LICENSE)
 
-# --------------------------------------------------
+--------------------------------------------------
 
 # FR
 
