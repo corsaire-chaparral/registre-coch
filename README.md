@@ -6,6 +6,10 @@
 
 # EN
 
+## Objective
+
+Provide the organization with a back-tracing tool to target individuals at risk in case of a disease spread.
+
 ## Constraints
 
 - 🛂 Restrict access to the lists to authorized individuals (ex. coaches, managers).
@@ -29,7 +33,9 @@ Standard web technologies (HTML5/CSS3/JS) to offer the widest accessibility rang
 
 # FR
 
-Objectif: munir le club d’un outil de (re)traçage des athlètes afin de pouvoir cibler les individus à risque en cas d’éclosion.
+## Objectif
+
+Munir l’organisation d’un outil de (re)traçage des athlètes afin de pouvoir cibler les individus à risque en cas d’éclosion.
 
 ## Contraintes
 
