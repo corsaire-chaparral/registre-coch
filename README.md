@@ -17,8 +17,8 @@ Provide the organization with a back-tracing tool to target individuals at risk 
 - 📱 The tool should be usable primarily on handheld devices, such as smartphones.
 - ♿️ The tool should be accessible through a wide range of electronic devices, not only last-generation models.
 - 🌳 The tool should be functional offline, wihtout an active Internet connection.
-- 🙃 The tool should attribute as little responsibility as possible to the end user regarding the security 🔒, storage 🗄, transfer 🔄, deletion 🚮 of the data; 
-  the usage contract should be simple, intuitive and require minimal personal investment ✅.
+- ✅ The tool should attribute as little responsibility as possible to the end user regarding the security 🔒, storage 🗄, transfer 🔄, deletion 🚮 of the data; 
+  the usage contract should be simple, intuitive and require minimal personal investment.
 
 ## Solution (EN)
 
@@ -44,8 +44,8 @@ Munir l’organisation d’un outil de (re)traçage des athlètes afin de pouvoi
 - 📱 L’outil devrait être utilisable principalement sur téléphone portable.
 - ♿️ L’outil devrait être accessible à une vaste gamme d’appareils, et pas seulement à ceux de dernière génération.
 - 🌳 L’outil devrait être fonctionnel hors ligne, sans une connexion Internet active.
-- 🙃 L’outil devrait attribuer aussi peu de responsabilité que possible à l’utilisateur concernant la sécurité des données 🔒, leur stockage 🗄, leur transfert 🔄, leur suppression 🚮; 
-  le contrat d’utilisation devrait être simple, intuitif et requérir un investissement personnel minimal ✅.
+- ✅ L’outil devrait attribuer aussi peu de responsabilité que possible à l’utilisateur concernant la sécurité des données 🔒, leur stockage 🗄, leur transfert 🔄, leur suppression 🚮; 
+  le contrat d’utilisation devrait être simple, intuitif et requérir un investissement personnel minimal.
 
 ## Solution (FR)
 
