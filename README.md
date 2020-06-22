@@ -16,7 +16,7 @@ Provide the organization with a back-tracing tool to target individuals at risk 
 - 📡 Information should transit through a contact-less system (avoiding physical propagation through material objects).
 - 📱 The tool should be usable primarily on handheld devices, such as smartphones.
 - ♿️ The tool should be accessible through a wide range of electronic devices, not only last-generation models.
-- 🌳 The tool should be functional offline, wihtout an active Internet connection.
+- 🌳 The tool should be functional offline, without an active Internet connection.
 - ✅ The tool should attribute as little responsibility as possible to the end user regarding the security 🔒, storage 🗄, transfer 🔄, deletion 🚮 of the data; 
   the usage contract should be simple, intuitive and require minimal personal investment.
 
