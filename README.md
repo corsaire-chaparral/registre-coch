@@ -1,8 +1,8 @@
 # COCH Ledger / Registre COCH
 
-[EN](#en): Virtual lists for tracking attendees.
+[EN](#en): Virtual lists for keeping track of member attendance within an organization.
 
-[FR](#fr): Listes virtuelles pour suivre la présence d’athlètes aux entraînements.
+[FR](#fr): Listes virtuelles de prise de présence au sein d’une organisation.
 
 # EN
 
