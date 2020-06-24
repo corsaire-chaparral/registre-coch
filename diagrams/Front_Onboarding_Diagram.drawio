@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T13:14:40.521Z" agent="5.0 (Macintosh)" etag="l2t2hZ2g0WmxWeIuLvZb" version="13.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-24T13:15:56.053Z" agent="5.0 (Macintosh)" etag="pyyWqrV8pV_w90vglSQh" version="13.3.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Onboarding">
     <mxGraphModel dx="786" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XdOq0WP5IJ2t7I9NkCUe" name="Manage events">
-    <mxGraphModel dx="2246" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tTohnYpVtqBp4ZgK2qlV-0" />
         <mxCell id="tTohnYpVtqBp4ZgK2qlV-1" parent="tTohnYpVtqBp4ZgK2qlV-0" />
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTohnYpVtqBp4ZgK2qlV-2" value="View all dates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tTohnYpVtqBp4ZgK2qlV-1">
-          <mxGeometry x="100" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="60" y="110" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tTohnYpVtqBp4ZgK2qlV-1" source="B7AI6OwDM12Od6UPBtCU-0" target="B7AI6OwDM12Od6UPBtCU-2">
           <mxGeometry relative="1" as="geometry" />
@@ -145,10 +145,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-0" value="View date" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tTohnYpVtqBp4ZgK2qlV-1">
-          <mxGeometry x="340" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="251" y="110" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-8" value="Done" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tTohnYpVtqBp4ZgK2qlV-1">
-          <mxGeometry x="340" y="300" width="130" height="40" as="geometry" />
+          <mxGeometry x="251" y="230" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="tTohnYpVtqBp4ZgK2qlV-1" source="B7AI6OwDM12Od6UPBtCU-2" target="B7AI6OwDM12Od6UPBtCU-0">
           <mxGeometry relative="1" as="geometry" />
@@ -157,13 +157,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-2" value="&lt;div&gt;Edit date&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tTohnYpVtqBp4ZgK2qlV-1">
-          <mxGeometry x="570" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="461" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="tTohnYpVtqBp4ZgK2qlV-1" source="B7AI6OwDM12Od6UPBtCU-5" target="B7AI6OwDM12Od6UPBtCU-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B7AI6OwDM12Od6UPBtCU-5" value="Save date" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="tTohnYpVtqBp4ZgK2qlV-1">
-          <mxGeometry x="780" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="661" y="110" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
