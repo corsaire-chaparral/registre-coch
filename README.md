@@ -12,7 +12,7 @@ Provide the organization with a back-tracing tool to target individuals at risk 
 
 ## Constraints
 
-- 🛂 Restrict access to the lists to authorized individuals (ex. coaches, managers).
+- 🛂 Restrict access to the lists to authorized individuals (e.g. coaches, managers).
 - 📡 Information should transit through a contact-less system (avoiding physical propagation through material objects).
 - 📱 The tool should be usable primarily on handheld devices, such as smartphones.
 - ♿️ The tool should be accessible through a wide range of electronic devices, not only last-generation models.
